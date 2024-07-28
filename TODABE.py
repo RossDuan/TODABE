@@ -1,5 +1,5 @@
 '''
-:Authors: Pengfei Duan, Zhaofeng Ma, Tian Tian, Jiyuan Song
+:Authors: Pengfei Duan, Hongmin Gao, Zhaofeng Ma, Tian Tian, Jiyuan Song
 :Date:            07/2024
 
 Title: "Blockchain-enabled Secure Data Sharing with Traceability and Outsourced Decryption in IoT"
